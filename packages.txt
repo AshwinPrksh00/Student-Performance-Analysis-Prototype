@@ -1,2 +1,2 @@
-matplotlib3.3.4-dev
-plotly4.14.3-dev
+matplotlib
+plotly
