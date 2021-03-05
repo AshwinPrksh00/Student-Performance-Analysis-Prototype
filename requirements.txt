@@ -4,3 +4,4 @@ plotly
 pandas
 numpy
 streamlit
+xlrd
