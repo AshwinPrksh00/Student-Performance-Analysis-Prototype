@@ -1,2 +1,0 @@
-matplotlib-dev
-plotly-dev
